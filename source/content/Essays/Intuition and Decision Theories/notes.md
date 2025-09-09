@@ -11,3 +11,5 @@ Fdt explicitly tries to arrive at the "best" behaviour, ends up implementing the
 
 
 How do we transmit the causal perspective? School/culture? Maybe we should be more careful about the way we teach things in school, to try to form a foundation of timeless thinking before introducing strong causality.
+
+Seems like there's a strong McGilchrist connection here - this is a very left/right brain divide.
