@@ -1,0 +1,6 @@
+In a [podcast](https://api.substack.com/feed/podcast/159586076/d1f1228cbf08f0ea55931b0b89621f71.mp3?token=a8fcb067-5ab6-4b31-b21e-06c5413d78a2) I heard the suggestion that if you come up with something genuinely new, LLMs won't be able to understand it. This is false!
+Fundamental laws of the universe are very simple. Vast complexity has developed from there by the input of randomness plus combinatorial flexibility/explosion, but at the root everything can be explained or decomposed into those fundamental laws. Therefore, every new idea is a composite/consequence of the fundamental laws.
+Therefore all new ideas can be expressed as some combination of existing ideas.
+Demo: if we know x=1 and y=2 then we know many things about functions involving X and y, but we know nothing about z. If someone then says z=3 then there are now *infinitely* many ways in which we can represent the relationship between x,y,z. Z is new but we can easily express it in terms of X and y.
+X and y are already notes in the neural net. If you (or it) provide a novel idea z, it can represent it in terms of X and y. This is more computationally expensive than representing it directly, but that's only an implementation detail (a different NN could have a direct representation of z)
+
