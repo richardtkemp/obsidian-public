@@ -1,12 +1,18 @@
+---
+draft: false
+tags:
+permalink: intuition
+date: 2025-09-09
+---
 ## To do:
 - citations
 - fix the voice/tone
 - cut as much as possible
-- state the conclusion up front
+- ~~state the conclusion up front~~
 
 
-[!table-of-contents]
-
+## 0. Summary
+Human instincts about cooperation, promises, and social behavior are actually sophisticated decision-making strategies that evolution spent millions of years perfecting. These gut feelings automatically solve the problem of "what happens if everyone does this?"—the core insight of timeless decision theory—through emotions like guilt when betraying trust or pride when keeping commitments. Modern analytical thinking is brilliant for genuinely new problems, but when we apply cold logic to social situations, we systematically undermine the very cooperation that makes civilization possible, because our evolved wisdom already knew the right answers.
 ## I. The Rationality Paradox
 
 - Modern "rational" thinking often leads to worse outcomes than traditional wisdom, for example:
