@@ -1,5 +1,3 @@
-# The Circular Journey of Human Decision-Making
-
 ## To do:
 - citations
 - fix the voice/tone
