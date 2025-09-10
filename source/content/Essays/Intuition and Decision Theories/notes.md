@@ -1,3 +1,11 @@
+Separate topics here:
+- instinct as evolved tdt
+- how cdt became more dominant - pos effects
+- modern problems seen as overuse of cdt
+- how to cultivate tdt perspective, when not to
+- spirituality as cultural tdt
+- implications for .. other things? politics? spirituality? education?
+
 https://claude.ai/share/4bd074ff-2bc4-4cb6-819a-dc05400d2679
 
 Mismatch between institutions and cognitive styles, as institutional patterns were created back in a more timeless time, when people cared about 'what kind of person are you' more than now. Institutions are now struggling to deal with a population which thinks in terms of 'what can I get'/'what are the direct effects of my actions'.
