@@ -38,5 +38,6 @@ Yet we reject nepotism and excess tribalism - why? How to justify using reason i
 | All sentient beings  | Reduces suffering across species, moral consistency                      | Extremely difficult trade-offs, competing needs across species                       |
 | Future generations   | Sustainable development, intergenerational justice                       | Present sacrifice for uncertain future benefit, temporal coordination problems       |
 | Universal principles | Objective moral framework, consistency across contexts                   | Abstract and hard to implement, may conflict with survival instincts                 |
+
 Perhaps there is no single best level, and we have to flexibly choose the right level of analysis for the problem we face.
 NB This is starting to bear some resemblances to [[Mereocracy]].
