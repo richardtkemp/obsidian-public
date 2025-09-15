@@ -5,6 +5,14 @@ Separate topics here:
 - how to cultivate tdt perspective, when not to
 - spirituality as cultural tdt
 - implications for .. other things? politics? spirituality? education?
+- libertarianism as a reaction to individualism - it's actually going against our evolved instincts! A patch on a broken culture, by admitting defeat. Maybe it's a valid path - but denying one of the instincts which made us successful doesn't seem a priori like it would be the optimal path.
+- Relevant instincts which we might criticise? Nepotism? Tribalism
+- what would rational thought deployed toward mutual benefit look like? sounds like socialism but is it?
+	- **Instinctive individualism** (early vertebrates, basic survival)
+	- **Instinctive kin-group mutualism** (mammals, primates - Hamilton's rule)
+	- **Instinctive tribal mutualism** (early humans - in-group cooperation, out-group competition)
+	- **Explicit rational individualism** (default from Enlightenment onwards - market thinking, utilitarian calculus. Existed before, but was near-universally frowned on). NB some of our rational stuff is pro-coordination: writing, laws, religion, internet
+	- **?? The next phase**
 
 https://claude.ai/share/4bd074ff-2bc4-4cb6-819a-dc05400d2679
 
@@ -21,3 +29,19 @@ Fdt explicitly tries to arrive at the "best" behaviour, ends up implementing the
 How do we transmit the causal perspective? School/culture? Maybe we should be more careful about the way we teach things in school, to try to form a foundation of timeless thinking before introducing strong causality.
 
 Seems like there's a strong McGilchrist connection here - this is a very left/right brain divide.
+
+
+
+System 1 vs 2
+Right vs left brain
+
+novel contribution is that the timeless connection
+instinct is the set of stimulus+response which were selected for over time: they are evolutionarily optimal, within the ancestral env. what has changed since then?
+(if instinct conflicts with rational decision making, either a) you're not actually being rational - missing information or not thinking deeply enough, b) the rational decision is good for you but bad for your genes (tribe), c) you're reasoning about an area to which instinct is badly suited)
+env has changed a lot in some ways and very little in others
+
+language allows us to construct complex arguments of cause and effect, extending causal reasoning's reach out beyond where it (bio) evolved to, and allowing us to lead ourselves astray with it sometimes.
+Even if we construct a sound argument for why going against instinct is good, it's likely the argument is missing something which instinct does not miss (second/third/etc order effects). Instinct is not reasoned or designed, but it *is* battle-tested, often literally.
+
+
+When to trust it? When the matter at hand it similar enough to the ancestral env.
