@@ -6,6 +6,7 @@ Here is an incomplete list of categories into which we might sort 'instincts', a
 - aesthetic: babies are cute, flowers are beautiful
 - learned/intuition: inexplicit knowledge gained from lots of experience in a particular domain
 
+
 Below I will provide a theory of interpersonal (social and cultural) instincts as [superrational](https://www.lesswrong.com/w/superrationality) algorithms implementing [functional decision theory](FDT.md), an explanation of why we sometimes do not follow these instincts, and a corrective heuristic of when we should trust instinct vs when we should employ 'rational' thought.
 # 1 Superrational instincts
 Evolution does not optimise strictly for the success of the individual - it optimises for the success of the gene. This often means individual success, but can also mean the net success of the individual's kin and/or tribe at the expense of the individual. Most animals are individualistic, and we could call their behaviour rational* in that frame, though not explicitly so. Social creatures however must diverge from strict individualist rationality in order to prioritise the other over self at times. (NB even bacterial colonies cooperate I think?)
