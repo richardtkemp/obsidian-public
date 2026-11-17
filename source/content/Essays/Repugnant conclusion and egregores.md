@@ -1,0 +1,1 @@
+Does it help the repugnant conclusion to consider egregores? I.e. don't just count the individual parts but also wholes. Do we still conclude repugnantly?
